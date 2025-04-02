@@ -5,8 +5,8 @@ A simple microservices-based application for managing products and orders, featu
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/er-hiba/simple-microservices-app.git
-   cd simple-microservices-app
+   https://github.com/er-hiba/Simple-Microservices-App.git
+   cd Simple-Microservices-App
    ```
 
 2. **Install dependencies in each service folder**:
