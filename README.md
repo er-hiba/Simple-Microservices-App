@@ -22,8 +22,8 @@ A simple microservices-based application for managing products and orders, featu
 3. **Set up environment variables**:
    - Copy the .env.example file in each service folder to .env:
     ```sh
-    cp products-service/.env.example products-service/.env
-    cp orders-service/.env.example orders-service/.env
+    cp produit-service/.env.example produit-service/.env
+    cp commande-service/.env.example commande-service/.env
     cp auth-service/.env.example auth-service/.env
     ```
    - Edit the .env file and fill in the required values.
